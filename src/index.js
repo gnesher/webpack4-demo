@@ -1,3 +1,3 @@
-import style from "./main.css";
+import "./main.css";
 
-console.log("TEST");
+console.log('aaa');
